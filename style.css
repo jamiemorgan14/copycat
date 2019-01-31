@@ -1,0 +1,19 @@
+
+#golf {
+min-width: 100%
+}
+
+#foot {
+  background-color: cadetblue;
+  margin-top: 15px;
+  border-top: 3px solid grey
+}
+
+.give-me-space {
+  margin-top: 15px;
+}
+
+.article-image {
+  max-width: 70%;
+  max-height: auto;
+}
