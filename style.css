@@ -1,3 +1,6 @@
+* {
+  background-color: beige;
+}
 
 #golf {
 min-width: 100%
@@ -18,4 +21,18 @@ min-width: 100%
 .article-image {
   max-width: 70%;
   max-height: auto;
+}
+
+.article-color {
+  background-color: lightsteelblue;
+  color: honeydew 
+}
+
+.spacing {
+  margin: 20px 0px 5px 50px;
+}
+
+.spacer {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
