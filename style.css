@@ -6,7 +6,9 @@ min-width: 100%
 #foot {
   background-color: cadetblue;
   margin-top: 15px;
-  border-top: 3px solid grey
+  margin-bottom: 5px;
+  border-top: 3px solid grey;
+  padding-bottom: 5px;
 }
 
 .give-me-space {
